@@ -1,0 +1,9 @@
+{
+  "name": "lijun-dashboard",
+  "version": "1.0.0",
+  "description": "利军带货数据大屏 - 飞书实时数据联通",
+  "main": "index.html",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
